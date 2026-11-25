@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860978050573",
+    "project_id": "galon-student-app",
+    "storage_bucket": "galon-student-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860978050573:android:963d22254f7706682c4744",
+        "android_client_info": {
+          "package_name": "com.example.room_activity_5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqm89ZVHzChHzxxXYTY5EjWNIm0f0rx2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
